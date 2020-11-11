@@ -16,7 +16,9 @@ Generate static files
         `$ hexo generate`
         `$ hexo deploy`
 
-
+这是
+一个
+新的
 
 
 HEXO
