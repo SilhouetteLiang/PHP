@@ -1,7 +1,7 @@
 ---
-title: first
+title: 1hexo操作
 date: 2020-09-17 17:42:37
-tags:
+tags: 技术
 ---
 
 
