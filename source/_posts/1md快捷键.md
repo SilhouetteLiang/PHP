@@ -1,11 +1,8 @@
 ---
 title: 快捷键
 date: 2020-09-17 18:16:52
-tags:
+tags: 快捷键
 ---
-
-
-
 OS X    Windows/Linux   Description
 ⌘⌥V                     创建超链接，可以将粘贴板中网址写在括号内
 ⌘⌥R                     创建引用
